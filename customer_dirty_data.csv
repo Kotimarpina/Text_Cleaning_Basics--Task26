@@ -1,0 +1,21 @@
+Customer ID,Customer Name,Email,City,Customer Segment,Country
+CUST001,  aNita  sharma , ANITA.SHARMA@EXAMPLE.COM ,Hyderabad  ,Consumer,India
+CUST002,RAHUL   VERMA,rahul.verma@example.com,mumbai,Corporate ,India
+CUST003, priya reddy, PRIYA.REDDY@EXAMPLE.COM,BENGALURU,Consumer,India
+CUST004,Arjun  Kumar ,arjun.kumar@example.com  ,Chennai,Home Office, India 
+CUST005,MEERA NAIR,meera.nair@example.com,pune,consumer,India
+CUST006,  vikram singh,VIKRAM.SINGH@EXAMPLE.COM,New Delhi ,Corporate,India
+CUST007,Sana  Khan,sana.khan@example.com,Kolkata,Home office,India
+CUST008,dev patel , dev.patel@example.com ,AHMEDABAD,Corporate,India
+CUST009,ISHA MENON,isha.menon@example.com,kochi,Consumer,India
+CUST010,  rohan das ,ROHAN.DAS@EXAMPLE.COM ,Visakhapatnam,Corporate,India
+CUST011,Kavya  Rao,kavya.rao@example.com,Vijayawada,Consumer,India
+CUST012,  aditya joshi,ADITYA.JOSHI@EXAMPLE.COM,jaipur,Home Office,India
+CUST013,Nisha Iyer ,nisha.iyer@example.com  ,LUCKNOW,Corporate,India
+CUST014,SURESH   REDDY,suresh.reddy@example.com,Indore,consumer,India
+CUST015,  tara bose,tara.bose@EXAMPLE.COM,Bhopal,Home office ,India
+CUST016,Farhan Ali,farhan.ali@example.com, surat ,Corporate,India
+CUST017,  leena paul,leena.paul@example.com,Guwahati,Consumer,India
+CUST018,OMKAR DESAI,omkar.desai@example.com,nagpur,Corporate,India
+CUST019,  diya kapoor ,diya.kapoor@example.com,PATNA,Home Office,India
+CUST020,Karan   Mehta,karan.mehta@example.com,Thiruvananthapuram,Consumer,India
